@@ -46,5 +46,4 @@ networks:
       driver: default
       config:
       - subnet: 172.37.0.0/16
-        ip_range: 172.37.5.0/24
         gateway: 172.37.0.1
